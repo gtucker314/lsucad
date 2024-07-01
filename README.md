@@ -1,0 +1,2 @@
+# lsucadecho "# lsucad" >> README.md
+The purpose of this CAD is to create a way to store 18 laptops in a way that is smart, efficient, and easy to acess. Additionally it allows for the organization of cords by threading them through the back holes to reach the power surge. The bottom shelf and dividers is meant for this purpose. The top shelf that is accessible by the swing door is meant to hold three stoage containers, a binder, and controllers. The bottom door is held with friction and a clevis pin while the top uses gravity and hindges.
